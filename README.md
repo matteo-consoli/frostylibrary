@@ -6,7 +6,7 @@ Import Books from internet, create book summary using Cortex LLM SUMMARIZE() fun
 
 ### FrostyLibrary Deployment
 1) Run the setup.sql in a Snowsight worksheet.
-1) Download "frostytracking_sis.py" and "logo_frostylibrary.png" from the GitHub repository.
+1) Download "frostylibrary_sis.py" and "logo_frostylibrary.png" from the GitHub repository.
 2) Create a new Streamlit app on your Snowflake account
 3) Paste the code into your new app.
 4) Upload the "logo.png" in the Streamlit application stage.
