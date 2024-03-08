@@ -16,7 +16,7 @@ You can deploy FrostyTracking in your Snowflake account and customize this proje
 4) Paste the code from the frostylibrary_sis.py file into your new Streamlit app and import the plotly package from the "Packages" menu.
 5) Optional: Upload the logo_frostylibrary.png image to the Streamlit application stage in Snowflake (recommended to make it fancy!)
 
-FrostyLibrary - Upload images to SiS Stage
+Extra Screenshot Reference - FrostyLibrary - Create Streamlit App Popup
 
 ![alt text](https://github.com/matteo-consoli/frostylibrary/blob/main/screenshot_setup_streamlit.png?raw=true)
 
